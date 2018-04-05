@@ -1,0 +1,6 @@
+C:\Users\thanh\Desktop\ttcs_phidong\ttcs\ttcs\bin\Debug\ttcs.exe
+C:\Users\thanh\Desktop\ttcs_phidong\ttcs\ttcs\bin\Debug\ttcs.pdb
+C:\Users\thanh\Desktop\ttcs_phidong\ttcs\ttcs\obj\Debug\ttcs.csprojResolveAssemblyReference.cache
+C:\Users\thanh\Desktop\ttcs_phidong\ttcs\ttcs\obj\Debug\ttcs.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\ttcs_phidong\ttcs\ttcs\obj\Debug\ttcs.exe
+C:\Users\thanh\Desktop\ttcs_phidong\ttcs\ttcs\obj\Debug\ttcs.pdb
